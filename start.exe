@@ -1,0 +1,5 @@
+Dim wshShell
+Set wshShell = Wscript.CreateObjec("WScript.Shell")
+
+WScript.Sleep(10000)
+wshShell.Run("crontab.bat")

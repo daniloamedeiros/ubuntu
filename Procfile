@@ -1,0 +1,1 @@
+crontab: /bin/bash -c "chmod +x /home/application/current/crontab.sh && while true; do /home/application/current/crontab.sh; sleep 600; done"
