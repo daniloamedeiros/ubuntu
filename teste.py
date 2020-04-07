@@ -17,7 +17,7 @@ def main():
     dashboards = r.json()
 
     print (dashboards)
-    print(">>>>>>>>",r)
+    print(">>>>>>>",r)
 	
     for d in dashboards:
         if d['title'].startswith('_'):
