@@ -9,13 +9,13 @@ public==2019.4.13
 selenium==3.141.0
 self==2019.4.13
 six==1.14.0
-urllib3==1.25.8
+urllib3==1.26.5
 PySocks==1.7.1
 mysql-connector-python==8.0.19
 distlib==0.3.0
 filelock==3.0.12
 parse==1.14.0
 pymongo==3.10.1
-urllib3==1.25.8
+urllib3==1.26.5
 requests==2.23.0
 DateTime==4.3
